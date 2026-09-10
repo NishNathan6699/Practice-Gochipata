@@ -12,3 +12,9 @@ Here are my favorite movies:
 1. Baahubali- 1 & 2
 2. Salaar
 3. Mirchi
+
+### My Favorite Songs
+
+- Kalyani
+- Dil nu
+- Movin to the sun
