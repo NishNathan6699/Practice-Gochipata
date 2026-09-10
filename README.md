@@ -38,3 +38,15 @@ The table shows some cities I am interested in visiting.
 | Paris | Visit the Eiffel Tower and explore the city | About 7,500 km | $900 |
 | Dubai | See modern architecture and attractions | About 2,500 km | $400 |
 | London | Visit historical places and landmarks | About 7,700 km | $900 |
+
+---
+
+## Favorite Jokes and Sayings
+
+### Albert Einstein
+
+> Life is like riding a bicycle. To keep your balance, you must keep moving.
+
+### Oscar Wilde
+
+> Be yourself; everyone else is already taken.
